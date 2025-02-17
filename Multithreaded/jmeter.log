@@ -1,0 +1,22 @@
+2025-02-17 23:50:51,580 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-02-17 23:50:51,607 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.3\bin\user.properties
+2025-02-17 23:50:51,608 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.3\bin\system.properties
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: Version 5.6.3
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: java.version=17.0.6
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: os.name=Windows 11
+2025-02-17 23:50:51,616 INFO o.a.j.JMeter: os.arch=amd64
+2025-02-17 23:50:51,617 INFO o.a.j.JMeter: os.version=10.0
+2025-02-17 23:50:51,617 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-02-17 23:50:51,617 INFO o.a.j.JMeter: java.awt.headless=null
+2025-02-17 23:50:51,617 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-02-17 23:50:51,617 INFO o.a.j.JMeter: Available Processors =4
+2025-02-17 23:50:51,626 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-02-17 23:50:51,626 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-02-17 23:50:51,626 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2025-02-17 23:50:51,626 INFO o.a.j.JMeter: user.dir  =C:\Users\LENOVO\Desktop\WEB SERVER PROJECT\Multithreaded
+2025-02-17 23:50:51,628 INFO o.a.j.JMeter: PWD       =C:\Users\LENOVO\Desktop\WEB SERVER PROJECT\Multithreaded
+2025-02-17 23:50:51,629 INFO o.a.j.JMeter: IP: 192.168.199.174 Name: Vishal-2219 FullName: Vishal-2219
+2025-02-17 23:50:51,648 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-02-17 23:50:51,838 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
