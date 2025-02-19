@@ -15,18 +15,18 @@ public class Server {
             }
         };
     }
-    
+
     public static void main(String[] args) {
         int port = 8010;
         Server server = new Server();
-        
+
         try {
             ServerSocket serverSocket = new ServerSocket(port);
             serverSocket.setSoTimeout(70000);
             System.out.println("Server is listening on port " + port);
             while (true) {
                 Socket clientSocket = serverSocket.accept();
-                
+
                 // Create and start a new thread for each client
                 Thread thread = new Thread(() -> server.getConsumer().accept(clientSocket));
                 thread.start();
@@ -35,5 +35,5 @@ public class Server {
             ex.printStackTrace();
         }
     }
-    
+
 }
